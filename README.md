@@ -65,7 +65,7 @@ During my studies, I have worked on various academic and personal projects that 
 ## 📫 Let’s Connect!  
 Feel free to reach out or check out my work:
 
-- 📧 **Email:** [yaroslavesev88@gmail.com]
+- 📧 **Email:** yaroslavesev88@gmail.com
 - 🌐 **GitHub:** [github.com/yaroslavesev](#)
 
 ---
